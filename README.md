@@ -8,7 +8,11 @@
 
 
 
-报告：
+报告：离群点分析和异常检测.html
+
+代码：离群点分析和异常检测.ipynb、outlier.py、analyse.py
+
+
 
 outlier.py：数据的处理、分类器的定义、训练和测试
 
